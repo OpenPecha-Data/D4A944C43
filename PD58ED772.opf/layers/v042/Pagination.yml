@@ -1,0 +1,92 @@
+id: a82e551a0c984cfca26717646579b944
+annotation_type: Pagination
+revision: '00001'
+annotations:
+  b8660dd06ed547be9aad3303fbd77077:
+    imgnum: 888
+    reference: ''
+    span:
+      start: 0
+      end: 697
+    note_ref: 38f001ea044347a2bab87fa79e2c565c
+  86287778c2524a3a9daf392bff243d17:
+    imgnum: 889
+    reference: ''
+    span:
+      start: 700
+      end: 1973
+    note_ref: 38f001ea044347a2bab87fa79e2c565c
+  6aa71509ca444882a40287525223ded2:
+    imgnum: 890
+    reference: ''
+    span:
+      start: 1976
+      end: 3372
+    note_ref: 38f001ea044347a2bab87fa79e2c565c
+  7f6978e2b9e242d494536896a15755f7:
+    imgnum: 891
+    reference: ''
+    span:
+      start: 3375
+      end: 4641
+    note_ref: 38f001ea044347a2bab87fa79e2c565c
+  ecfe5bd9d35e4cbfa595290eb4295f88:
+    imgnum: 892
+    reference: ''
+    span:
+      start: 4644
+      end: 5956
+    note_ref: 38f001ea044347a2bab87fa79e2c565c
+  32d5f50af03646f2931fa4937bac4802:
+    imgnum: 893
+    reference: ''
+    span:
+      start: 5959
+      end: 7341
+    note_ref: 38f001ea044347a2bab87fa79e2c565c
+  b160e18f7d314298a97dcea87f4e878d:
+    imgnum: 894
+    reference: ''
+    span:
+      start: 7344
+      end: 8612
+    note_ref: 38f001ea044347a2bab87fa79e2c565c
+  2e193cd9a6824a079902814084a9cf95:
+    imgnum: 895
+    reference: ''
+    span:
+      start: 8615
+      end: 9959
+    note_ref: 38f001ea044347a2bab87fa79e2c565c
+  dcc37af699704f898c0c5d36e0d00bb1:
+    imgnum: 896
+    reference: ''
+    span:
+      start: 9962
+      end: 11346
+    note_ref: 38f001ea044347a2bab87fa79e2c565c
+  c6bbc5249a12433cbd6f73f195607e31:
+    imgnum: 897
+    reference: ''
+    span:
+      start: 11349
+      end: 12646
+    note_ref: 38f001ea044347a2bab87fa79e2c565c
+  38f001ea044347a2bab87fa79e2c565c:
+    imgnum: 898
+    reference: ''
+    span:
+      start: 12649
+      end: 13226
+local_ids:
+  b8660dd06ed547be9aad3303fbd77077: 200000
+  86287778c2524a3a9daf392bff243d17: 200001
+  6aa71509ca444882a40287525223ded2: 200002
+  7f6978e2b9e242d494536896a15755f7: 200003
+  ecfe5bd9d35e4cbfa595290eb4295f88: 200004
+  32d5f50af03646f2931fa4937bac4802: 200005
+  b160e18f7d314298a97dcea87f4e878d: 200006
+  2e193cd9a6824a079902814084a9cf95: 200007
+  dcc37af699704f898c0c5d36e0d00bb1: 200008
+  c6bbc5249a12433cbd6f73f195607e31: 200009
+  38f001ea044347a2bab87fa79e2c565c: 200010
